@@ -1,182 +1,105 @@
 <div align="center">
 
-# 👋 Hi, I'm Devendra Babu Pesarlanka
+# DEVENDRA BABU PESARLANKA
 
 ### AI/ML Engineer | Generative AI | Agentic AI | Backend Development
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+Intelligent+AI+Applications;Exploring+Agentic+AI+%26+Multi-Agent+Systems;Developing+RAG+%26+LLM+Applications;Turning+Ideas+Into+Scalable+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Intelligent+AI+Applications;Agentic+AI+%7C+RAG+%7C+LLM+Workflows;Python+%7C+FastAPI+%7C+LangGraph" />
 
-<p>
-<a href="https://github.com/devendrababu9666">
-<img src="https://komarev.com/ghpvc/?username=devendrababu9666&label=Profile%20Views&color=blueviolet&style=flat-square" />
-</a>
-</p>
-
-<a href="https://github.com/devendrababu9666?tab=followers">
-<img src="https://img.shields.io/github/followers/devendrababu9666?label=Followers&style=social" />
-</a>
-
-<a href="https://github.com/devendrababu9666">
-<img src="https://img.shields.io/github/stars/devendrababu9666?style=social" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/pesarlanka-devendrababu/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/devendrababu9666)
+![Profile Views](https://komarev.com/ghpvc/?username=devendrababu9666&style=flat&color=blueviolet)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm an **AI/ML Engineer at HCLTech** passionate about building intelligent applications that combine Artificial Intelligence, Generative AI, and modern software engineering.
+Software Engineer at **HCLTech**, passionate about building intelligent applications using Generative AI, Large Language Models, Retrieval-Augmented Generation, and Agentic AI.
 
-I enjoy transforming complex problems into practical solutions using Large Language Models, Retrieval-Augmented Generation, AI agents, and workflow orchestration.
-
-- 💼 Currently working at **HCLTech** as a Software Engineer.
-- 🤖 Interested in Generative AI, Agentic AI, and Multi-Agent Systems.
-- 🧠 Exploring RAG, Advanced RAG, LangChain, and LangGraph.
-- 🔗 Working with MCP (Model Context Protocol) and AI tool integrations.
-- ⚙️ Experienced in Python, FastAPI, and backend development.
-- 📚 Published research papers and book chapters in emerging technologies.
-- 🎯 Focused on building scalable, reliable, and intelligent AI applications.
+- 💼 Software Engineer at HCLTech.
+- 🤖 Interested in Generative AI, Agentic AI and Multi-Agent Systems.
+- 🧠 Exploring RAG, LangChain, LangGraph and MCP.
+- ⚙️ Experienced in Python, FastAPI and backend development.
+- 🧪 Interested in LLM Evaluation and Responsible AI.
+- 📚 Contributor to technical research and book publications.
 
 ---
 
-## 🧠 Technical Skills
+## 🧰 Technical Skills
 
-### 🤖 Generative AI & Agentic AI
+**Generative AI & Agentic AI**
 
-<p>
-<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-008080?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic_AI-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MCP-6A5ACD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-4169E1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM_Evaluation-9932CC?style=for-the-badge"/>
-</p>
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat)
+![RAG](https://img.shields.io/badge/RAG-087E8B?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![MCP](https://img.shields.io/badge/MCP-6A5ACD?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4169E1?style=flat)
 
-### 💻 Programming Languages
+**Programming Languages**
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,sql"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### ⚙️ Backend & Web Development
+**Backend, Frontend & Databases**
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react,nextjs,html,css"/>
-</p>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### 🧪 Machine Learning & Deep Learning
+**Machine Learning & Tools**
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
-### 🗄️ Databases & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,git,github,docker,linux"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
-
-### 🛠️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,anaconda,postman,jupyter,github"/>
-</p>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. 🤖 AI Talent Matching MVP
-
-AI-powered recruitment platform designed to analyze job descriptions, evaluate candidate profiles, and support intelligent talent matching.
-
-**Technologies:** Python, FastAPI, Next.js, Gemini, LangGraph, TypeScript.
-
-<a href="https://github.com/devendrababu9666/AI_Talent_Matching_MVP">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-### 2. 🏪 VyapaarPilot AI
-
-AI-powered retail intelligence platform combining agentic workflows, MCP tools, inventory intelligence, supplier evaluation, and budget-aware procurement decisions.
-
-**Technologies:** Python, FastAPI, LangGraph, MCP, Next.js, SQLite.
-
-<a href="https://github.com/devendrababu9666/Vyaparpiolet-ai">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-### 3. 🎙️ Intelligent Meeting Assistant
-
-AI-powered meeting intelligence application that transforms meeting recordings and transcripts into structured summaries, decisions, and actionable tasks.
-
-**Technologies:** Python, FastAPI, JavaScript, NLP, Audio Transcription.
-
-<a href="https://github.com/devendrababu9666/meeting-assist">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-### 4. 🧠 PolicyPilot – Agentic RAG Employee Navigator
-
-Agentic RAG application designed to help employees retrieve organizational policies through semantic search, evidence assessment, clarification handling, and grounded AI responses.
-
-**Technologies:** Python, LangGraph, LangChain, OpenAI, ChromaDB, Streamlit.
-
-<a href="https://github.com/devendrababu9666/Agentic-RAG-Capstone">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-### 5. 🛒 EasyCart Nexus
-
-E-commerce application focused on modular application architecture, frontend development, structured data management, and software testing.
-
-**Technologies:** Application and frontend technologies.
-
-<a href="https://github.com/devendrababu9666/EasyCart-Nexus">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-### 6. 🧭 Talent Navigator
-
-An additional project exploring intelligent talent-related application development.
-
-**Technologies:** Project-specific stack.
+| Project | Description | Technologies |
+|---|---|---|
+| [AI Talent Matching MVP](https://github.com/devendrababu9666/AI_Talent_Matching_MVP) | AI-powered recruitment and candidate matching platform. | Python, FastAPI, LangGraph, Next.js |
+| [VyapaarPilot AI](https://github.com/devendrababu9666/Vyaparpiolet-ai) | AI-powered retail intelligence and procurement assistant. | Python, LangGraph, MCP, FastAPI |
+| [Intelligent Meeting Assistant](https://github.com/devendrababu9666/meeting-assist) | Converts meeting recordings into summaries, decisions and actionable tasks. | Python, FastAPI, JavaScript |
+| [PolicyPilot – Agentic RAG](https://github.com/devendrababu9666/Agentic-RAG-Capstone) | Evidence-grounded employee policy assistant. | LangGraph, LangChain, OpenAI, ChromaDB |
+| [EasyCart Nexus](https://github.com/devendrababu9666/EasyCart-Nexus) | E-commerce application development project. | Full-Stack Technologies |
+| [More Projects](https://github.com/devendrababu9666?tab=repositories) | Explore my other projects and technical experiments. | Various Technologies |
 
 ---
 
 ## 📚 Research & Publications
 
-I have contributed to research and technical publications in Artificial Intelligence, Machine Learning, Healthcare Analytics, and Blockchain Technology.
-
-- 📖 Published multiple technical book chapters through IGI Global.
-- 🧬 Research work on Skin Cancer Classification using Convolutional Neural Networks.
-- 🏥 Research contribution on Machine Learning and Deep Learning applications in Healthcare.
-- 🔐 Technical publication on Security Aspects of Blockchain Technology.
-- 📚 Contributed to research exploring AI-driven healthcare analytics and antimicrobial resistance.
+- Research work on Skin Cancer Classification using Convolutional Neural Networks.
+- Book chapter on Security Aspects of Blockchain Technology.
+- Research contributions involving Machine Learning and Deep Learning in Healthcare.
+- Publications exploring AI-driven healthcare analytics and antimicrobial resistance.
+- Published technical book chapters through IGI Global.
 
 ---
 
-## 🎓 Education & Professional Experience
+## 🎓 Education & Experience
 
-**Professional Experience**
-
-- HCLTech — Software Engineer.
-
-**Education**
-
-- Bachelor of Technology (B.Tech)
-- Computer Science and Engineering
-- Specialization: Artificial Intelligence and Machine Learning
-- Lovely Professional University.
+| Category | Details |
+|---|---|
+| Professional Experience | Software Engineer – HCLTech |
+| Degree | Bachelor of Technology (B.Tech) |
+| Specialization | Computer Science and Engineering – AI & ML |
+| University | Lovely Professional University |
 
 ---
 
@@ -184,56 +107,31 @@ I have contributed to research and technical publications in Artificial Intellig
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devendrababu9666&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendrababu9666&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/devendrababu9666">
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=devendrababu9666&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</a>
+<a href="https://github.com/devendrababu9666">
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendrababu9666&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=devendrababu9666&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=devendrababu9666&theme=tokyonight&hide_border=true" height="155"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🤝 Let's Connect
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=devendrababu9666&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pesarlanka-devendrababu/)
 
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/devendrababu9666)
 
----
+### 💡 Building Intelligent Solutions, One Innovation at a Time.
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devendrababu9666&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-I'm always interested in connecting with developers, AI enthusiasts, researchers, and technology professionals.
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/pesarlanka-devendrababu/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/devendrababu9666">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-### 💡 "Building Intelligent Solutions, One Innovation at a Time."
-
-⭐ If you find my projects interesting, consider exploring my repositories and following my journey!
+⭐ Feel free to explore my repositories and connect with me!
 
 </div>
